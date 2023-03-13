@@ -1,1 +1,11 @@
 identifier: l7e3y521n6o145n3
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: tailwinds-daisyui
+homeFolder: C:\Users\andy.bui\Desktop\Programmieren\tailwinds-daisyui
+distFolder: dist/tailwinds-daisyui
+outDir: C:\Users\andy.bui\Desktop\Programmieren\tailwinds-daisyui\dist\static\
+handle404: ''
+allowErrorCollect: true
